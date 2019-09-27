@@ -1,0 +1,1 @@
+All Pairing config
