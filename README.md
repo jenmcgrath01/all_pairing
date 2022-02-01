@@ -1,4 +1,3 @@
 All Pairing config
 
-Redo Squash commit #2
-
+REmove conflicts
